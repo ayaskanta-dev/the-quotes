@@ -9,4 +9,4 @@
 
 ### Preview Link
 
-- *[View Here](https://www.markdownguide.org)*
+- *[View Here](https://ayaskanta-dev-the-quotes.netlify.app/)*
