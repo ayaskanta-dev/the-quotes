@@ -17,8 +17,8 @@ function App() {
   }
 
   return (
-    <main className="h-screen w-full">
-      <section className="flex flex-col justify-between h-screen w-[80vw] md:w-[70vw] xl:w-[60vw] mx-auto">
+    <main className="h-[92vh] w-full">
+      <section className="flex flex-col justify-between h-[92vh] md:h-screen w-[80vw] md:w-[70vw] xl:w-[60vw] mx-auto">
         <nav className="h-[10vh] flex justify-between items-center">
           <h1 className="text-3xl font-bold">The Quotes</h1>
           <Switcher />
